@@ -24,11 +24,7 @@ github_username:  erotallgeese
 # Build settings
 markdown: kramdown
 theme: minima
-<<<<<<< HEAD
 plugins:
-=======
-gems:
->>>>>>> 9de31f1eeb76b4c06cca0aa3ac85b66be212722f
   - jekyll-feed
 
 # Exclude from processing.
